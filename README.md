@@ -1,2 +1,2 @@
-# Video-Streaming-in-Web-Browsers-with-FastAPI
+# FastAPI-VideoStreaming
 Streaming live videos from IP Cameras or Webcam with FastAPI ,Python and OpenCV
